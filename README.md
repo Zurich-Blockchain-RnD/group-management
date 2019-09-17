@@ -1,2 +1,2 @@
 # newsletter
-Group's open monthly newsletter
+Group's open monthly newsletter.
